@@ -1,0 +1,16 @@
+[
+  {
+    "nom": "Pagne du Muloubar",
+    "categorie": "Ceinture",
+    "ressource": [
+      {"nom": "Queu du Mulou", "quantite": 25},
+      {"nom": "Testicules de Cocholou", "quantite": 3},
+      {"nom": "Canine de Mergranlou", "quantite": 25},
+      {"nom": "Mojo de Mergranlou", "quantite": 3},
+      {"nom": "Testicules Magiques de Muloubard", "quantite": 2},
+      {"nom": "Scalp de Meulou", "quantite": 5},
+      {"nom": "Galet cramoisi", "quantite": 4}
+    ],
+    "brisage": {"taux": 168, "rune": {"nom": "Do Terre","quantite": 72}}
+  }
+]
